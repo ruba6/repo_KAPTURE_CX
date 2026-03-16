@@ -6,7 +6,7 @@ This repository implements a domain-specific conversational agent for EMI collec
 The agent can:
 
 • Remind customers about overdue EMI payments  
-• Handle objections ("I already paid", "I need more time")  
+• Handle objections
 • Confirm payment commitments  
 • Escalate calls politely  
 
