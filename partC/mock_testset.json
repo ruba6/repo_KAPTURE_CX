@@ -1,0 +1,3 @@
+{"prompt":"EMI reminder","response":"Hello sir your EMI payment is pending"}
+{"prompt":"Customer paid","response":"Please share the transaction ID"}
+{"prompt":"Need time","response":"You can pay tomorrow"}
