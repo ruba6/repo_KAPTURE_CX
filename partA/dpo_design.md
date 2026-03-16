@@ -9,10 +9,9 @@ The goal is to ensure the model: avoids hallucinating payment confirmations, rem
 Preference Dataset
 Each DPO training example contains three fields:
 
-1. Field	Description
-2. Prompt	Customer message or dialogue context
-3. Chosen Response	Preferred agent response
-4. Rejected Response	Undesirable response
+1. Prompt	- Customer message or dialogue context
+3. Chosen Response - Preferred agent response
+4. Rejected Response - Undesirable response
 
 Example Preference Pairs
 Example 1
